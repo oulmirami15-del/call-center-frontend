@@ -96,7 +96,7 @@ export default function AgentDashboard() {
               onClick={() => navigate('/admin')}
               className="text-sm text-blue-600 hover:underline font-medium"
             >
-              Admin
+              LAARBI
             </button>
           )}
           <button

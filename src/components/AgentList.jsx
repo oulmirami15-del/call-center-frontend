@@ -16,7 +16,7 @@ const AGENT_NAMES = {
   agent1: 'Youssef',
   agent2: 'Karim',
   agent3: 'Sara',
-  agent4: 'Admin',
+  agent4: 'LAARBI',
 };
 
 export default function AgentList({ presences, currentAgentId }) {
